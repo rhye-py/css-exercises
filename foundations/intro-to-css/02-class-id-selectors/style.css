@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+p{
+    background-color: lightsalmon;
+}
+
+div{
+    font-weight: bold;
+}
+#blue_text{
+    color: blue;
+    font-size: 50px;
+}
+.First_P{
+    font-size: 20px;
+}
+.third_P{
+    font-size: 50px;
+}
+.fourth_P{
+    font-size: 35px;
+    background-color: rgb(138, 181, 75);
+}
+.fifth_P{
+    font-size: 20px;
+}
